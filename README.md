@@ -1,16 +1,6 @@
 # sathish
 
 A new Flutter project.
+Login Screen
+![Login](https://github.com/Unluck-rider/Flutter_UI/assets/123094414/cc803f97-cc4f-4e87-9963-14c781c880f0)![Register](https://github.com/Unluck-rider/Flutter_UI/assets/123094414/5afa51a4-aafe-4961-8fdf-99d2f6dd23bf)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
